@@ -1,6 +1,7 @@
 import { initForm, dateCalcForm, timerForm } from './form.js';
 import datecalc from "./datecalc.js";
 import initTimer from "./initTimer.js";
+import '../scss/style.scss';
 
 datecalc();
 
